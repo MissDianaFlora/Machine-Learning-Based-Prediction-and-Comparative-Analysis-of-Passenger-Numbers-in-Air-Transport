@@ -1,2 +1,2 @@
-# Machine-Learning-Based-Prediction-and-Comparative-Analysis-of-Passenger-Numbers-in-Air-Transport
-Machine Learning-Based Prediction and Comparative Analysis of Passenger Numbers in Air Transport between the UK and Ireland Considering Flight Frequency, Distance, Flight Type, and Travel Coverage
+# Msc-Data-Analytics-CA-Two-Materials
+This repository contains my CA on application of various Data analytics techniques to the Transport in Ireland
